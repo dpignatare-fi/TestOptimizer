@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestOptimizer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="uname" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">S.KANCHANAVALLY@FI.COM</Value>
+    </Setting>
+    <Setting Name="pwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="host" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c01201d1agw001.ms.crd.com</Value>
+    </Setting>
+    <Setting Name="port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8090</Value>
+    </Setting>
+    <Setting Name="protocol" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
